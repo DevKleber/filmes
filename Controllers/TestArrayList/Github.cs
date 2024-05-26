@@ -1,4 +1,4 @@
-namespace FilmesApi.TextArrayList;
+namespace FilmesApi.TestArrayList;
 
 using System;
 

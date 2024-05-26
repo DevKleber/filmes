@@ -26,4 +26,4 @@ obj/
 .history
 .ionide
 
-# End of https://www.toptal.com/developers/gitignore/api/dotnetcore,visualstudiocode
+Controllers/TextArrayList/large-file.json
