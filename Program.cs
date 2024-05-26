@@ -1,4 +1,8 @@
+using FilmesApi.Controller;
+
 var builder = WebApplication.CreateBuilder(args);
+
+// new Person("2489678844");
 
 // Add services to the container.
 
